@@ -22,4 +22,5 @@
             $(this).next().hide();
         }
     };
+
 })(jQuery);
